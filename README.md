@@ -1,4 +1,4 @@
-About Me
+About Me:-
 I bridge computational tools with biological questions — from molecular docking and virtual screening to RNA-Seq transcriptomics and ML-based predictions. I hold an ORCID iD and have been awarded an institutional research grant for my bioinformatics work.
 
 Incoming Research Intern at Metflux Research, Bangalore (2026)
@@ -8,7 +8,7 @@ Preparing for GATE Biotechnology 2027
 ORCID: 0009-0005-9466-2789
 
 
-Skills
+Skills:-
 Bioinformatics & Research
 RNA-Seq analysis · DEG & pathway analysis · In-silico drug discovery · Molecular docking · Protein structure visualization · Epitope prediction · Host-pathogen interaction studies · Genomics & Transcriptomics
 Computational Tools
@@ -18,7 +18,7 @@ Python (basic–intermediate) · R (basic) · Pandas · NumPy · Matplotlib · S
 Wet Lab
 DNA isolation & purification · Agarose gel electrophoresis · ELISA · Blood group identification · Centrifugation · Buffer preparation
 
-Projects
+Projects:-
 1. RNA-Seq Transcriptomic Profiling of Chlorella vulgaris
 View Repository
 Analyzed gene expression changes in Chlorella vulgaris under environmental stress. Identified differentially expressed genes and stress adaptation pathways using DESeq2, KEGG, and BLAST. Interpreted the biological significance of transcriptomic shifts.
@@ -41,14 +41,14 @@ Python NLP TF-IDF Logistic Regression Scikit-learn
 Built and evaluated ML models to classify water potability from physicochemical features. Performed feature analysis and model optimization to improve prediction accuracy.
 Python Pandas Scikit-learn Feature Engineering
 
-Certifications
+Certifications:-
 
 NPTEL (IIT Madras) — WEKA: Exploring Machine Learning for Healthcare
 Deloitte (Forage) — Data Analytics Job Simulation
 HackerRank — Python (Basic) Skill Certification
 
 
-Achievements
+Achievements:-
 
 Merit Certificate for Poster Presentation Excellence — VFSTR
 Selected for University Research Honors Program
@@ -59,7 +59,7 @@ Represented at 6 competitive levels in Fencing
 2nd place — Yoga Competition
 
 
-Connect
+Connect:-
 
 LinkedIn: sravya-mulpuri-943655336
 ORCID: 0009-0005-9466-2789
